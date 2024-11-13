@@ -22,7 +22,6 @@ namespace Tyuiu.ZaharovVV.Sprint4.Task0.V21.Lib
             }
 
             return sum;
-
         }
     }
 }

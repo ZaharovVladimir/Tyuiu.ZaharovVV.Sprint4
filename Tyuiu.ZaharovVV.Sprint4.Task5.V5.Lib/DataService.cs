@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint4;
-namespace Tyuiu.ZaharovVV.Sprint4.Task5.V5.Lib
+namespace Tyuiu.BorodulinMS.Sprint4.Task5.V5.Lib
 {
-    public class DataService : ISprint4Task4V5
+    public class DataService : ISprint4Task5V5
     {
         public int Calculate(int[,] matrix)
         {
